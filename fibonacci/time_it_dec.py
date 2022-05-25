@@ -6,7 +6,7 @@ import time
 
 
 def time_it(func):
-    '''Benchmarks a given function. It is intended to be used as a decorator.'''
+    """Benchmarks a given function. It is intended to be used as a decorator."""
     @wraps(func)
     def wrapper(*args, **kwargs):
         start = time.time()
