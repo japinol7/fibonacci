@@ -1,4 +1,4 @@
-'''Module time_it_dec.'''
+"""Module time_it_dec."""
 __author__ = 'Joan A. Pinol  (japinol)'
 
 from functools import wraps

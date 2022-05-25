@@ -1,4 +1,4 @@
-'''Module time_it.'''
+"""Module time_it."""
 __author__ = 'Joan A. Pinol  (japinol)'
 
 import time
