@@ -39,6 +39,8 @@
                using an array of unsigned integers of 64 or 32 bits.
         	4.  fib4_rec_mem_dic.py
                A dynamic programming memoized solution using a dictionary.
+        	4b.  fib4b_rec_mem_dic.py
+               A dynamic programming memoized solution using a dictionary and a decorator.
         	5.  fib5_rec_mem.py
                A dynamic programming memoized solution for a recursive approach
                using functools.lru_cache from the standard library.
